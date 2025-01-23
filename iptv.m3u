@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://192.168.1.51/xmltv.php"
+#EXTM3U
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="0" channel-number="0",ABC East
 http://192.168.1.51/live_play.php?streamId=0
 
