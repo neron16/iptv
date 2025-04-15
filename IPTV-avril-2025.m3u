@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBMTDT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Canada",CBC Montréal
+#EXTINF:-1 tvg-id="CBMT.ca" tvg-logo="https://i.imgur.com/OiiM6Mz.png" group-title="Canada",CBC Montréal
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News Network
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Canada",Crave 1
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
@@ -11,13 +11,9 @@ http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
 http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Canada",Crave 4
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-logo="https://i.imgur.com/pRscvrp.png" group-title="Canada",CTV
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="CFHDDT.ca" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada",ICI Montreal
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="CBFTDT.ca" tvg-logo="https://i.imgur.com/pFCJGj4.png" group-title="Canada",Ici Radio-Canada Télé
+#EXTINF:-1 tvg-id="ICITeleMontreal.caa" tvg-logo="https://i.imgur.com/pFCJGj4.png" group-title="Canada",ICI Radio-Canada Télé
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI
+#EXTINF:-1 tvg-id="ICITeleMontreal.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="Canada",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
@@ -31,7 +27,7 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Canada",TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="TVAplus.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="Canada",TVA
+#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="Canada",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="USA TV",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
