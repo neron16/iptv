@@ -11,7 +11,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="Canada",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-logo="http://www.couperogers.com/wp-content/uploads/sites/3/2015/06/Logo-TVA-Sports-1-vertical-CMYK.jpg" group-title="SPORT",TVA Sports
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-logo="http://www.couperogers.com/wp-content/uploads/sites/3/2015/06/Logo-TVA-Sports-1-vertical-CMYK.jpg" group-title="Canada",TVA Sports
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
 #EXTINF:-1 tvg-name="Noovo" tvg-logo="https://i.imgur.com/BL9ziSJ.png" group-title="Canada",Noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
