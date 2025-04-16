@@ -18,9 +18,9 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
 #EXTINF:-1 tvg-id="RDS(Reseaudessports)(src01).ca" tvg-name="RDS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS.png" group-title="Canada",RDS
-https://tvnow.best/api/stream/burns/burns/livetv.epg/rds.ca.m3u8
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/280913.ts
 
-#EXTINF:-1 tvg-id="TVASport.ca" tvg-name="TVA Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS.png" group-title="Canada",TVA Sports
+#EXTINF:-1 tvg-id="TVASport.ca" tvg-name="TVA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVA_Sports_2021_logo.png" group-title="Canada",TVA Sports
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tva.sports.ca.m3u8
 
 #EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Canada",TSN 1
