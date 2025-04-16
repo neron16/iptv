@@ -19,6 +19,20 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Canada",TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1,Sportsnet 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167798.m3u8
+#EXTINF:-1,Sportsnet East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167799.m3u8
+#EXTINF:-1,Sportsnet ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167800.m3u8
+#EXTINF:-1,Sportsnet Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167801.m3u8
+#EXTINF:-1,Sportsnet Pacific HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167802.m3u8
+#EXTINF:-1,Sportsnet West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167803.m3u8
+#EXTINF:-1,SPORTSNET WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvmedia2.com:8080/andrea/andrea/167804.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="USA TV",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="USA TV",CBS News 24/7
