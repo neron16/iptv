@@ -18,7 +18,7 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
 #EXTINF:-1 tvg-id="RDS(Reseaudessports)(src01).ca" tvg-name="RDS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS.png" group-title="Canada",RDS
-https://windnew.newkso.ru/dokko1/premium839/mono.m3u8
+https://windnew.newkso.ru/wind/premium839/mono.m3u8
 
 #EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Canada",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
