@@ -2,6 +2,7 @@
 <channel id="AccuWeatherNOW.us"><display-name>AccuWeather</display-name><icon src="https://i.imgur.com/M8wbVYK.png"/><url>https://tvtv.us</url></channel>
 <channel id="beINSPORTSXTRA.us"><display-name>beIN SPORTS XTRA</display-name><icon src="https://i.imgur.com/uJosqHh.png"/><url>https://beinsports.com</url></channel>
 <channel id="CanalD.ca"><display-name>D</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/512px-CanalD.svg.png"/><url>https://tvhebdo.com</url></channel>
+<channel id="CBFTDT.ca"><display-name>Ici Radio-Canada Télé</display-name><icon src="https://i.imgur.com/pFCJGj4.png"/><url>https://tvtv.us</url></channel>
 <channel id="CBSSportsNetworkUSA.us"><display-name>CBS Sports Network USA</display-name><icon src="https://i.imgur.com/A8CnA8g.png"/><url>https://tvpassport.com</url></channel>
 <channel id="CFTMDT.ca"><display-name>CFTM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png"/><url>https://tvhebdo.com</url></channel>
 <channel id="ESPN2.us"><display-name>ESPN 2</display-name><icon src="https://i.imgur.com/00tsvjE.png"/><url>https://tvtv.us</url></channel>
@@ -70,7 +71,6 @@
 <programme start="20250417190000 +0000" stop="20250417200000 +0000" channel="beINSPORTSXTRA.us"><title lang="en">IFSC Sport Climbing World Cup</title><desc lang="en">Seoul - Men&apos;s and Women&apos;s Lead Final</desc></programme>
 <programme start="20250417200000 +0000" stop="20250417220000 +0000" channel="beINSPORTSXTRA.us"><title lang="en">Skiing</title><desc lang="en">Ski Classics Pro Tour: Grand Finale Summit 2 Senja</desc></programme>
 <programme start="20250417220000 +0000" stop="20250418000000 +0000" channel="beINSPORTSXTRA.us"><title lang="en">Karate Combat</title><desc lang="en">KC 51: Miami, Part 1</desc></programme>
-<programme start="20250416163000 +0000" stop="20250416170000 +0000" channel="CanalD.ca"><title lang="fr">Douanes sous haute surveillance</title></programme>
 <programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="CanalD.ca"><title lang="fr">Routiers de l&apos;Outback</title></programme>
 <programme start="20250416180000 +0000" stop="20250416190000 +0000" channel="CanalD.ca"><title lang="fr">9-1-1</title></programme>
 <programme start="20250416190000 +0000" stop="20250416200000 +0000" channel="CanalD.ca"><title lang="fr">Paranormal sur le vif</title></programme>
@@ -112,6 +112,7 @@
 <programme start="20250417160000 +0000" stop="20250417163000 +0000" channel="CanalD.ca"><title lang="fr">Douanes sous haute surveillance</title></programme>
 <programme start="20250417160000 +0000" stop="20250417163000 +0000" channel="CanalD.ca"><title lang="fr">Douanes sous haute surveillance</title></programme>
 <programme start="20250417163000 +0000" stop="20250417170000 +0000" channel="CanalD.ca"><title lang="fr">Douanes sous haute surveillance</title></programme>
+<programme start="20250417163000 +0000" stop="20250417170000 +0000" channel="CanalD.ca"><title lang="fr">Douanes sous haute surveillance</title></programme>
 <programme start="20250417170000 +0000" stop="20250417180000 +0000" channel="CanalD.ca"><title lang="fr">Routiers de l&apos;Outback</title></programme>
 <programme start="20250417180000 +0000" stop="20250417190000 +0000" channel="CanalD.ca"><title lang="fr">9-1-1</title></programme>
 <programme start="20250417190000 +0000" stop="20250417200000 +0000" channel="CanalD.ca"><title lang="fr">Paranormal sur le vif</title></programme>
@@ -124,6 +125,95 @@
 <programme start="20250418000000 +0000" stop="20250418010000 +0000" channel="CanalD.ca"><title lang="fr">Terreur dans la ville fantôme</title></programme>
 <programme start="20250418010000 +0000" stop="20250418020000 +0000" channel="CanalD.ca"><title lang="fr">Étrange évidence</title></programme>
 <programme start="20250418020000 +0000" stop="20250418023000 +0000" channel="CanalD.ca"><title lang="fr">Le grand coup</title></programme>
+<programme start="20250416000000 +0000" stop="20250416010000 +0000" channel="CBFTDT.ca"><title lang="fr">Les chefs!</title></programme>
+<programme start="20250416010000 +0000" stop="20250416020000 +0000" channel="CBFTDT.ca"><title lang="fr">Bonsoir bonsoir!</title></programme>
+<programme start="20250416020000 +0000" stop="20250416030000 +0000" channel="CBFTDT.ca"><title lang="fr">Le téléjournal avec Céline Galipeau</title></programme>
+<programme start="20250416030000 +0000" stop="20250416030500 +0000" channel="CBFTDT.ca"><title lang="fr">Sports express</title></programme>
+<programme start="20250416030500 +0000" stop="20250416043500 +0000" channel="CBFTDT.ca"><title lang="fr">On va se le dire</title></programme>
+<programme start="20250416043500 +0000" stop="20250416060300 +0000" channel="CBFTDT.ca"><title lang="fr">Mordus de politique</title></programme>
+<programme start="20250416060300 +0000" stop="20250416070300 +0000" channel="CBFTDT.ca"><title lang="fr">24/60</title></programme>
+<programme start="20250416070300 +0000" stop="20250416100000 +0000" channel="CBFTDT.ca"><title lang="fr">Fin des programmes</title></programme>
+<programme start="20250416100000 +0000" stop="20250416101100 +0000" channel="CBFTDT.ca"><title lang="fr">Bleu Neptune</title></programme>
+<programme start="20250416101100 +0000" stop="20250416101400 +0000" channel="CBFTDT.ca"><title lang="fr">Les ani-monstres</title></programme>
+<programme start="20250416101400 +0000" stop="20250416102600 +0000" channel="CBFTDT.ca"><title lang="fr">Kid Lucky</title></programme>
+<programme start="20250416102600 +0000" stop="20250416102700 +0000" channel="CBFTDT.ca"><title lang="fr">T&apos;es où Chicky?</title></programme>
+<programme start="20250416102700 +0000" stop="20250416102900 +0000" channel="CBFTDT.ca"><title lang="fr">Garfield tout court</title></programme>
+<programme start="20250416102900 +0000" stop="20250416104200 +0000" channel="CBFTDT.ca"><title lang="fr">Les Pyjamasques</title></programme>
+<programme start="20250416104200 +0000" stop="20250416104400 +0000" channel="CBFTDT.ca"><title lang="fr">Gus le chevalier minus</title></programme>
+<programme start="20250416104400 +0000" stop="20250416104500 +0000" channel="CBFTDT.ca"><title lang="fr">Garfield tout court</title></programme>
+<programme start="20250416104500 +0000" stop="20250416105600 +0000" channel="CBFTDT.ca"><title lang="fr">Sonic Boom</title></programme>
+<programme start="20250416105600 +0000" stop="20250416105900 +0000" channel="CBFTDT.ca"><title lang="fr">Bernard Sports</title></programme>
+<programme start="20250416105900 +0000" stop="20250416111200 +0000" channel="CBFTDT.ca"><title lang="fr">Garfield et cie</title></programme>
+<programme start="20250416111200 +0000" stop="20250416112400 +0000" channel="CBFTDT.ca"><title lang="fr">Agent Binky: protecteur de l&apos;univers</title></programme>
+<programme start="20250416112400 +0000" stop="20250416112800 +0000" channel="CBFTDT.ca"><title lang="fr">Bernard Sports</title></programme>
+<programme start="20250416112800 +0000" stop="20250416113000 +0000" channel="CBFTDT.ca"><title lang="fr">Les gadgets d&apos;Angry Birds</title></programme>
+<programme start="20250416113000 +0000" stop="20250416114200 +0000" channel="CBFTDT.ca"><title lang="fr">Boule et Bill 3D</title></programme>
+<programme start="20250416114200 +0000" stop="20250416115400 +0000" channel="CBFTDT.ca"><title lang="fr">Les Pyjamasques</title></programme>
+<programme start="20250416115400 +0000" stop="20250416115500 +0000" channel="CBFTDT.ca"><title lang="fr">Paf le chien</title></programme>
+<programme start="20250416115500 +0000" stop="20250416115800 +0000" channel="CBFTDT.ca"><title lang="fr">Angry Birds Toons</title></programme>
+<programme start="20250416115800 +0000" stop="20250416122400 +0000" channel="CBFTDT.ca"><title lang="fr">Alix et les Merveilleux</title></programme>
+<programme start="20250416122400 +0000" stop="20250416122600 +0000" channel="CBFTDT.ca"><title lang="fr">Les bulles d&apos;Angry Birds</title></programme>
+<programme start="20250416122600 +0000" stop="20250416122900 +0000" channel="CBFTDT.ca"><title lang="fr">Explique-moi ça</title></programme>
+<programme start="20250416122900 +0000" stop="20250416125400 +0000" channel="CBFTDT.ca"><title lang="fr">Mehdi et Val</title></programme>
+<programme start="20250416125400 +0000" stop="20250416125700 +0000" channel="CBFTDT.ca"><title lang="fr">Dans la toile</title></programme>
+<programme start="20250416125700 +0000" stop="20250416130000 +0000" channel="CBFTDT.ca"><title lang="fr">Les lance-pierres d&apos;Angry Birds</title></programme>
+<programme start="20250416130000 +0000" stop="20250416133000 +0000" channel="CBFTDT.ca"><title lang="fr">L&apos;agenda</title></programme>
+<programme start="20250416133000 +0000" stop="20250416150000 +0000" channel="CBFTDT.ca"><title lang="fr">On va se le dire</title></programme>
+<programme start="20250416150000 +0000" stop="20250416153000 +0000" channel="CBFTDT.ca"><title lang="fr">La cuisine d&apos;Isabelle et Ricardo</title></programme>
+<programme start="20250416153000 +0000" stop="20250416160000 +0000" channel="CBFTDT.ca"><title lang="fr">5 chefs dans ma cuisine</title></programme>
+<programme start="20250416160000 +0000" stop="20250416163000 +0000" channel="CBFTDT.ca"><title lang="fr">Le téléjournal midi</title></programme>
+<programme start="20250416163000 +0000" stop="20250416170000 +0000" channel="CBFTDT.ca"><title lang="fr">Silence, on joue!</title></programme>
+<programme start="20250416170000 +0000" stop="20250416180000 +0000" channel="CBFTDT.ca"><title lang="fr">Bonsoir bonsoir!</title></programme>
+<programme start="20250416180000 +0000" stop="20250416200000 +0000" channel="CBFTDT.ca"><title lang="fr">Ma Mère</title></programme>
+<programme start="20250416200000 +0000" stop="20250416212900 +0000" channel="CBFTDT.ca"><title lang="fr">On va se le dire</title></programme>
+<programme start="20250416212900 +0000" stop="20250416220000 +0000" channel="CBFTDT.ca"><title lang="fr">Silence, on joue!</title></programme>
+<programme start="20250416220000 +0000" stop="20250416230000 +0000" channel="CBFTDT.ca"><title lang="fr">Le débat des chefs 2025</title></programme>
+<programme start="20250416230000 +0000" stop="20250417000000 +0000" channel="CBFTDT.ca"><title lang="fr">Stat</title></programme>
+<programme start="20250416230000 +0000" stop="20250417000100 +0000" channel="CBFTDT.ca"><title lang="fr">Stat</title></programme>
+<programme start="20250417010000 +0000" stop="20250417020000 +0000" channel="CBFTDT.ca"><title lang="fr">Bonsoir bonsoir!</title></programme>
+<programme start="20250417020000 +0000" stop="20250417030000 +0000" channel="CBFTDT.ca"><title lang="fr">Le téléjournal avec Céline Galipeau</title></programme>
+<programme start="20250417030000 +0000" stop="20250417040500 +0000" channel="CBFTDT.ca"><title lang="fr">Sports express</title></programme>
+<programme start="20250417040500 +0000" stop="20250417053500 +0000" channel="CBFTDT.ca"><title lang="fr">On va se le dire</title></programme>
+<programme start="20250417053500 +0000" stop="20250417070300 +0000" channel="CBFTDT.ca"><title lang="fr">Mordus de politique</title></programme>
+<programme start="20250417070300 +0000" stop="20250417100000 +0000" channel="CBFTDT.ca"><title lang="fr">Fin des programmes</title></programme>
+<programme start="20250417100000 +0000" stop="20250417101100 +0000" channel="CBFTDT.ca"><title lang="fr">Bleu Neptune</title></programme>
+<programme start="20250417101100 +0000" stop="20250417101300 +0000" channel="CBFTDT.ca"><title lang="fr">Arthur L&apos;aventurier: le Maroc et ses beautés</title></programme>
+<programme start="20250417101300 +0000" stop="20250417101400 +0000" channel="CBFTDT.ca"><title lang="fr">Léon</title></programme>
+<programme start="20250417101400 +0000" stop="20250417102700 +0000" channel="CBFTDT.ca"><title lang="fr">Kid Lucky</title></programme>
+<programme start="20250417102700 +0000" stop="20250417102800 +0000" channel="CBFTDT.ca"><title lang="fr">T&apos;es où Chicky?</title></programme>
+<programme start="20250417102800 +0000" stop="20250417104200 +0000" channel="CBFTDT.ca"><title lang="fr">Les Pyjamasques</title></programme>
+<programme start="20250417104200 +0000" stop="20250417104400 +0000" channel="CBFTDT.ca"><title lang="fr">Gus le chevalier minus</title></programme>
+<programme start="20250417104400 +0000" stop="20250417104500 +0000" channel="CBFTDT.ca"><title lang="fr">T&apos;es où Chicky?</title></programme>
+<programme start="20250417104500 +0000" stop="20250417105600 +0000" channel="CBFTDT.ca"><title lang="fr">Sonic Boom</title></programme>
+<programme start="20250417105600 +0000" stop="20250417110000 +0000" channel="CBFTDT.ca"><title lang="fr">Bernard</title></programme>
+<programme start="20250417110000 +0000" stop="20250417111200 +0000" channel="CBFTDT.ca"><title lang="fr">Garfield et cie</title></programme>
+<programme start="20250417111200 +0000" stop="20250417112400 +0000" channel="CBFTDT.ca"><title lang="fr">Agent Binky: protecteur de l&apos;univers</title></programme>
+<programme start="20250417112400 +0000" stop="20250417112800 +0000" channel="CBFTDT.ca"><title lang="fr">Mini-Jean et Mini-Bulle</title></programme>
+<programme start="20250417112800 +0000" stop="20250417112900 +0000" channel="CBFTDT.ca"><title lang="fr">Les lance-pierres d&apos;Angry Birds</title></programme>
+<programme start="20250417112900 +0000" stop="20250417113000 +0000" channel="CBFTDT.ca"><title lang="fr">Garfield tout court</title></programme>
+<programme start="20250417113000 +0000" stop="20250417114100 +0000" channel="CBFTDT.ca"><title lang="fr">Les aventures de Paddington</title></programme>
+<programme start="20250417114100 +0000" stop="20250417115300 +0000" channel="CBFTDT.ca"><title lang="fr">Les Pyjamasques</title></programme>
+<programme start="20250417115300 +0000" stop="20250417115400 +0000" channel="CBFTDT.ca"><title lang="fr">T&apos;es où Chicky?</title></programme>
+<programme start="20250417115400 +0000" stop="20250417115500 +0000" channel="CBFTDT.ca"><title lang="fr">La minute de Mike!</title></programme>
+<programme start="20250417115500 +0000" stop="20250417115800 +0000" channel="CBFTDT.ca"><title lang="fr">Angry Birds Toons</title></programme>
+<programme start="20250417115800 +0000" stop="20250417122400 +0000" channel="CBFTDT.ca"><title lang="fr">Alix et les Merveilleux</title></programme>
+<programme start="20250417122400 +0000" stop="20250417122700 +0000" channel="CBFTDT.ca"><title lang="fr">Bernard</title></programme>
+<programme start="20250417122700 +0000" stop="20250417122800 +0000" channel="CBFTDT.ca"><title lang="fr">Les lance-pierres d&apos;Angry Birds</title></programme>
+<programme start="20250417122800 +0000" stop="20250417125400 +0000" channel="CBFTDT.ca"><title lang="fr">Mehdi et Val</title></programme>
+<programme start="20250417125400 +0000" stop="20250417125700 +0000" channel="CBFTDT.ca"><title lang="fr">Bernard</title></programme>
+<programme start="20250417125700 +0000" stop="20250417130000 +0000" channel="CBFTDT.ca"><title lang="fr">Les lance-pierres d&apos;Angry Birds</title></programme>
+<programme start="20250417130000 +0000" stop="20250417133000 +0000" channel="CBFTDT.ca"><title lang="fr">L&apos;agenda</title></programme>
+<programme start="20250417133000 +0000" stop="20250417150000 +0000" channel="CBFTDT.ca"><title lang="fr">On va se le dire</title></programme>
+<programme start="20250417150000 +0000" stop="20250417153000 +0000" channel="CBFTDT.ca"><title lang="fr">La cuisine d&apos;Isabelle et Ricardo</title></programme>
+<programme start="20250417153000 +0000" stop="20250417160000 +0000" channel="CBFTDT.ca"><title lang="fr">5 chefs dans ma cuisine</title></programme>
+<programme start="20250417160000 +0000" stop="20250417163000 +0000" channel="CBFTDT.ca"><title lang="fr">Le téléjournal midi</title></programme>
+<programme start="20250417163000 +0000" stop="20250417170000 +0000" channel="CBFTDT.ca"><title lang="fr">Silence, on joue!</title></programme>
+<programme start="20250417170000 +0000" stop="20250417180000 +0000" channel="CBFTDT.ca"><title lang="fr">Bonsoir bonsoir!</title></programme>
+<programme start="20250417180000 +0000" stop="20250417200000 +0000" channel="CBFTDT.ca"><title lang="fr">A.C.O.D.: les enfants du divorce</title></programme>
+<programme start="20250417200000 +0000" stop="20250417212900 +0000" channel="CBFTDT.ca"><title lang="fr">On va se le dire</title></programme>
+<programme start="20250417212900 +0000" stop="20250417215900 +0000" channel="CBFTDT.ca"><title lang="fr">Silence, on joue!</title></programme>
+<programme start="20250417215900 +0000" stop="20250417230000 +0000" channel="CBFTDT.ca"><title lang="fr">Le téléjournal avec Patrice Roy</title></programme>
+<programme start="20250417230000 +0000" stop="20250418000000 +0000" channel="CBFTDT.ca"><title lang="fr">Stat</title></programme>
 <programme start="20250416100000 +0000" stop="20250416140000 +0000" channel="CBSSportsNetworkUSA.us"><title lang="en">Boomer and Gio</title><desc lang="en">CBS Sports Network simulcasts WFAN&apos;s</desc><category lang="en">Sports</category><category lang="en">Talk Show</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p14976231_i_s3_ab.jpg</image></programme>
 <programme start="20250416140000 +0000" stop="20250416150000 +0000" channel="CBSSportsNetworkUSA.us"><title lang="en">FIM Motocross World Championship</title><category lang="en">Sports</category><category lang="en">Motorcycle Racing</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p10749155_b_s4_bb.jpg</image></programme>
 <programme start="20250416150000 +0000" stop="20250416160000 +0000" channel="CBSSportsNetworkUSA.us"><title lang="en">FIM Motocross World Championship</title><category lang="en">Sports</category><category lang="en">Motorcycle Racing</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p10749155_b_s4_bb.jpg</image></programme>
@@ -486,7 +576,6 @@
 <programme start="20250417170000 +0000" stop="20250417180000 +0000" channel="GolfChannel.us"><title lang="en">Golf Central Pregame</title></programme>
 <programme start="20250417180000 +0000" stop="20250417220000 +0000" channel="GolfChannel.us"><title lang="en">PGA Tour Golf</title></programme>
 <programme start="20250417220000 +0000" stop="20250418000100 +0000" channel="GolfChannel.us"><title lang="en">LPGA Tour Golf</title></programme>
-<programme start="20250416163000 +0000" stop="20250416175800 +0000" channel="IciRDI.ca"><title lang="fr">Mordus de politique</title></programme>
 <programme start="20250416175800 +0000" stop="20250416195900 +0000" channel="IciRDI.ca"><title lang="fr">Zone info avec Gérald Fillion</title></programme>
 <programme start="20250416195900 +0000" stop="20250416215500 +0000" channel="IciRDI.ca"><title lang="fr">En direct avec Patrice Roy</title></programme>
 <programme start="20250416215500 +0000" stop="20250416230000 +0000" channel="IciRDI.ca"><title lang="fr">Zone économie</title></programme>
@@ -515,6 +604,7 @@
 <programme start="20250417160000 +0000" stop="20250417163000 +0000" channel="IciRDI.ca"><title lang="fr">Le téléjournal midi</title></programme>
 <programme start="20250417160000 +0000" stop="20250417163000 +0000" channel="IciRDI.ca"><title lang="fr">Le téléjournal midi</title></programme>
 <programme start="20250417163000 +0000" stop="20250417175800 +0000" channel="IciRDI.ca"><title lang="fr">Mordus de politique</title></programme>
+<programme start="20250417163000 +0000" stop="20250417170000 +0000" channel="IciRDI.ca"><title lang="fr">Mordus de politique</title></programme>
 <programme start="20250417175800 +0000" stop="20250417195900 +0000" channel="IciRDI.ca"><title lang="fr">Zone info avec Gérald Fillion</title></programme>
 <programme start="20250417195900 +0000" stop="20250417215500 +0000" channel="IciRDI.ca"><title lang="fr">En direct avec Patrice Roy</title></programme>
 <programme start="20250417215500 +0000" stop="20250417223000 +0000" channel="IciRDI.ca"><title lang="fr">Zone économie</title></programme>
