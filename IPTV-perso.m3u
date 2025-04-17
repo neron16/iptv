@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/neron16/iptv/refs/heads/main/specificguide.xml"
+#EXTINF:-1 tvg-id="TF1.fr" group-title="Canada",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="CBFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/ICI_T%C3%A9l%C3%A9_logo.svg/1200px-ICI_T%C3%A9l%C3%A9_logo.svg.png" group-title="Canada",ICI Radio-Canada Télé
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI
