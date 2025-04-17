@@ -13,13 +13,13 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="RDS(Reseaudessports)(src01).ca" tvg-name="RDS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS.png" group-title="Canada",RDS
 https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="RDS(Reseaudessports)(src01).ca" tvg-name="RDS 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS_2.png" group-title="Canada",RDS 2
+#EXTINF:-1 tvg-id="RDS2(src01).ca" tvg-name="RDS 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS_2.png" group-title="Canada",RDS 2
 https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="RDS(Reseaudessports)(src01).ca" tvg-name="RDS Info" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS_2.png" group-title="Canada",RDS Info
+#EXTINF:-1 tvg-id="RDSinfo(src01).ca" tvg-name="RDS Info" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS_2.png" group-title="Canada",RDS Info
 https://dokko1new.newkso.ru/dokko1/premium841/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="TVASport.ca" tvg-name="TVA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVA_Sports_2021_logo.png" group-title="Canada",TVA Sports
+#EXTINF:-1 tvg-id="TVASports(src01).ca" tvg-name="TVA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVA_Sports_2021_logo.png" group-title="Canada",TVA Sports
 https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="TVASport2.ca" tvg-name="TVA Sports 2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports2-1.png" group-title="Canada",TVA Sports 2
+#EXTINF:-1 tvg-id="TVASports2(src01).ca" tvg-name="TVA Sports 2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports2-1.png" group-title="Canada",TVA Sports 2
 https://dokko1new.newkso.ru/dokko1/premium834/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Canada",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
