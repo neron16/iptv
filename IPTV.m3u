@@ -4,7 +4,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 tvg-id="ICIRDI(French).ca" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="Noovo(CFJP)MontrealQC(src01).ca" tvg-name="Noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/2560px-Noovo_logo.svg.png" group-title="Canada",Noovo
-https://live-noovo.video.9c9media.com/f/noovo/noovob/manifest_092548_dash_2_video_3000000_3078557.mp4|Referer=https://www.noovo.ca//&Origin=https://www.noovo.ca&Keep-Alive=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://9921.911turbo.net:8443/hls/stream835.m3u8|Referer=https://gt3rs.net//&Origin=https://gt3rs.net/&Keep-Alive=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CanalD(src01).ca" tvg-name="Canal D" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="Canada",Canal D
 https://tvnow.best/api/stream/burns/burns/livetv.epg/canal.d.ca.m3u8
 #EXTINF:-1 tvg-id="LCN(src01).ca" tvg-name="LCN" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="Canada",LCN
