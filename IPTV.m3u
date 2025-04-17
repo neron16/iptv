@@ -6,10 +6,10 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:-1 tvg-id="Noovo(CFJP)MontrealQC(src01).ca" tvg-name="Noovo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/2560px-Noovo_logo.svg.png" group-title="Canada",Noovo
-https://tvnow.best/api/stream/burns/burns/livetv.epg/noovo.vtele.ca.m3u8
+https://tvnow.best/api/stream/burns/burns/livetv.epg/noovo.vtele.ca.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="CanalD(src01).ca" tvg-name="Canal D" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="Canada",Canal D
-https://tvnow.best/api/stream/burns/burns/livetv.epg/canal.d.ca.m3u8
+https://tvnow.best/api/stream/burns/burns/livetv.epg/canal.d.ca.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="LCN(src01).ca" tvg-name="LCN" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="Canada",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
@@ -42,7 +42,7 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
 
 #EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada",Sportsnet One
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Sportsnet(Pacific)(English).ca" tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada",Sportsnet Pacific
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
