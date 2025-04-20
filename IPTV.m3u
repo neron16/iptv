@@ -43,7 +43,7 @@ http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1200px-Logo_TF1_2013.svg.png" group-title="Canada",TF1
 https://windnew.newkso.ru/wind/premium469/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-logo="https://cdn.tv-programme.com/photos/chaines/png_from_svg_2400/81.png", Canal+
+#EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-logo="https://cdn.tv-programme.com/photos/chaines/png_from_svg_2400/81.png" group-title="Canada", Canal+
 https://windnew.newkso.ru/wind/premium121/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="AccuWeather.us" tvg-name="AccuWeather Now" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="USA TV",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
