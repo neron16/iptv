@@ -45,6 +45,8 @@ http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
 https://windnew.newkso.ru/wind/premium469/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-logo="https://cdn.tv-programme.com/photos/chaines/png_from_svg_2400/81.png" group-title="Canada", Canal+
 https://windnew.newkso.ru/wind/premium121/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="M6(scr01).fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/640px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Canada", M6
+https://windnew.newkso.ru/wind/premium470/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="AccuWeather.us" tvg-name="AccuWeather Now" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="USA TV",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="USA TV",CBS News 24/7
