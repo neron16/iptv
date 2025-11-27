@@ -22,7 +22,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Canada",TSN 1
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Canada",TSN 2
-http://fl25.moveonjoy.com/TSN_2/index.m3u8
+http://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="TSN 3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Canada",TSN 3
 http://fl25.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="TSN 4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Canada",TSN 4
@@ -91,6 +91,7 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
 #EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Sports",PokerGo
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
+
 
 
 
