@@ -5,6 +5,8 @@ https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/640px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Canada", M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-id="RTLTVI(src01).be" tvg-logo="	https://i.imgur.com/2CimAAN.png" group-title="Canada", RTL-TVI
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="Sportsnet(East)(English).ca" tvg-name="Sportsnet East" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png" group-title="Canada",Sportsnet East
 https://tvpass.org/live/sportsnet-east/hd
 #EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada",Sportsnet One
@@ -63,6 +65,7 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/138
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 
 
 
