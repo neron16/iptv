@@ -36,7 +36,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
 `#EXTINF:-1 tvg-id="TVASports2(src01).ca" tvg-name="TVA Sports 2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports2-1.png" group-title="Canada",TVA Sports 2
 `https://dokko1new.newkso.ru/dokko1/premium834/mono.m3u8|Referer=https://xtreaweb.top//&Origin=https://xtreaweb.top/&Keep-Alive=true&User-Agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Canada",TSN 1
-https://tvpass.org/live/tsn1/hd
+https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/480p/playlist.m3u8?token=n3fjp11qf89
 #EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Canada",TSN 2
 https://tvpass.org/live/tsn2/hd
 #EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="TSN 3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Canada",TSN 3
@@ -65,6 +65,7 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/138
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 
 
 
