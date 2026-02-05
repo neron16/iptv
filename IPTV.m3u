@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9m5q5awgpxryxr5"
+#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6yw78m8cmpze8yx1w"
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1200px-Logo_TF1_2013.svg.png" group-title="Canada",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-logo="https://cdn.tv-programme.com/photos/chaines/png_from_svg_2400/81.png" group-title="Canada", Canal+
@@ -65,6 +65,7 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/138
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 
 
 
