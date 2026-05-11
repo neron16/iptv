@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/dqr6yw78m8cmprj2yx1w"
-#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ebxfit1688767503.png" group-title="Canada",TVA Sports
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/51133
+#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ebxfit1688767503.png" group-title="Canada", TVA Sports
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54367
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1200px-Logo_TF1_2013.svg.png" group-title="Canada",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-logo="https://cdn.tv-programme.com/photos/chaines/png_from_svg_2400/81.png" group-title="Canada", Canal+
