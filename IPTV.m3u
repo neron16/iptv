@@ -8,7 +8,7 @@ https://fomis.phantemlis.top/premium833/index.m3u8?md5v1=4hzC9dbxEkG-J2rndY7RfQ&
 #EXTINF:-1 tvg-id="RDS(Reseaudessports)(src01).ca" tvg-name="RDS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS.png" group-title="Canada",RDS
 https://fomis.phantemlis.top/premium839/index.m3u8?md5v1=6ge2sHRVeJtBhYQ3uf641g&md5v2=2qZcnm6NSvoedcd1EV7Jww&expires=1779756362
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1200px-Logo_TF1_2013.svg.png" group-title="Canada",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-logo="https://cdn.tv-programme.com/photos/chaines/png_from_svg_2400/81.png" group-title="Canada", Canal+
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/640px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Canada", M6
